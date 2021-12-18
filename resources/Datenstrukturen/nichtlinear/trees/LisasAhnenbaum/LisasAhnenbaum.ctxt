@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LisasAhnenbaum
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ LisasAhnenbaum.\n
+comment1.params=
+comment1.target=LisasAhnenbaum()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ LisasAhnenbaum\n
+comment2.params=
+comment2.target=void\ ahnenBaum()
+comment3.params=
+comment3.target=void\ preorderAusgabe()
+comment4.params=b
+comment4.target=void\ preorder(BinaryTree)
+numComments=5

@@ -1,0 +1,50 @@
+Inhaltsverzeichnis
+
+    I. Netzwerke
+        I. Netzwerkprotokoll
+        II. Netzwerktopologien
+            I. Bus-Topologie
+            II. Ring-Topologie
+            III. Stern-Topologie
+            IV. Vermaschte Topologie
+        III. Prüfverfahren
+            I. Paritätsbit
+            II. Prüfsumme
+            III. XOR-Prüfsumme
+        IV. TCP/IP-Schichtmodell
+            I. Netzwerkzugangsschicht
+            II. Internetschicht
+            III. Transportschicht
+            IV. Anwendungsschicht
+        V. Kommunikation zwischen Client und Server
+            I. Modellierung
+            II. Implementation
+    II. Verschlüsselung
+        I. Grundlagen Kryptographie
+        II. Caesar-Verschlüsselung
+        III. Vigenère-Chiffre
+        IV. mathematische Grundlagen
+        V. Diffi-Hellman Schlüsselaustausch
+        VI. RSA-Verschlüsselung
+    III.  Automaten
+        I. Formale Sprache/Begriffe
+        II. DEA
+        III. NEA
+        IV. Kellerautomat
+        V. Compiling
+            I. Scanner
+            II. Parser
+    IV.  Datenstrukturen
+        I. Queue
+        II. Liste
+        III. Stack
+        IV. Tree
+            I. Binary tree
+            II. Binary search tree
+            III. balanced tree
+        V. Graph
+    V. Datenbanken
+        I. SQL
+            I. Fachbegriffe
+            II. Syntax
+            III. Befehle

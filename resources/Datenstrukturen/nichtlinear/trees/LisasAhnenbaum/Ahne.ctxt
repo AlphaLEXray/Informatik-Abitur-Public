@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ahne
+comment0.text=\n\ Die\ Klasse\ Namen\ ist\ der\ ContentType\ des\ BinaryTrees\ und\ speichert\ den\ Namen\ des\ Vorfahrens.\n
+comment1.params=pVorname\ pNachname\ pgeschlecht
+comment1.target=Ahne(java.lang.String,\ java.lang.String,\ char)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Namen\n
+comment2.params=pVorname
+comment2.target=void\ setName(java.lang.String)
+comment2.text=-------------------\ start\ set-Methoden--------------
+comment3.params=pNachname
+comment3.target=void\ setNachname(java.lang.String)
+comment4.params=pGeschlecht
+comment4.target=void\ setGeschlecht(char)
+comment5.params=
+comment5.target=java.lang.String\ getVorname()
+comment5.text=-----------------start\ get-Methoden-----------------
+comment6.params=
+comment6.target=java.lang.String\ getNachname()
+comment7.params=
+comment7.target=char\ getGeschlecht()
+numComments=8
