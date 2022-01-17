@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SortierAlgorythmen
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ SortierAlgorythmen.\n
+comment1.params=
+comment1.target=SortierAlgorythmen()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ SortierAlgorythmen\n
+comment2.params=
+comment2.target=void\ bubbleSort()
+comment2.text=\n\ Diese\ Methode\ f\u00FChrt\ den\ Bubblesortalgorithmus\ auf\ dem\ Array\ zahlen\ aus\n
+comment3.params=
+comment3.target=void\ selectionSort()
+comment3.text=\n\ Diese\ Methode\ f\u00FCrht\ den\ Selectionsort\ auf\ dem\ Array\ Zahlen\ aus\n
+numComments=4
